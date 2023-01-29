@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+.shade {
+  border-left: 5px solid #a9d4e6eb;
+}
+.error {
+  border: 1px solid red;
+  border-left: 5px solid #ed2f2feb;
+}
